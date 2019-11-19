@@ -1,0 +1,204 @@
+{
+    "@type": "sc:AnnotationList",
+    "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/81285178.4931.emory.edu/list/81285178.4931.emory.edu$7",
+    "resources": [
+        {
+            "motivation": "oa:commenting",
+            "@id": "a8a31363-e043-4212-87da-80d8b9875272",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "format": "text/html",
+                "chars": "<p><strong>Picture</strong> - stamped</p>",
+                "@type": "dctypes:Text",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/canvas/81285178.4931.emory.edu$7",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "value": "xywh=494,1115,414,401",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M494,1115h207v0h207v200.5v200.5h-207h-207v-200.5z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_313e7fee-947c-4439-bd8e-3ddd607ece4f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"18.28309\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice",
+                        "default": {
+                            "value": "xywh=494,1115,414,401",
+                            "@type": "oa:FragmentSelector"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "motivation": "oa:commenting",
+            "@id": "912e16e1-abdb-46ec-b70a-495ddad2dae7",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "format": "text/html",
+                "chars": "<p>decoration - circle?</p>",
+                "@type": "dctypes:Text",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/canvas/81285178.4931.emory.edu$7",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "value": "xywh=1117,965,87,109",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1129.73454,980.59554c8.04962,-9.1187 19.40491,-15.90908 30.81523,-15.90097v0v0c11.41032,0.00811 21.35062,6.36041 30.81523,15.90097c9.46461,9.54056 13.14339,24.07854 12.76409,38.38834c-0.3793,14.3098 -4.81666,28.39144 -12.76409,38.38834c-7.94743,9.9969 -19.40491,15.90908 -30.81523,15.90097c-11.41032,-0.00811 -22.77347,-5.93652 -30.81523,-15.90097c-8.04176,-9.96445 -12.76212,-23.96496 -12.76409,-38.38834c-0.00197,-14.42338 4.71447,-29.26964 12.76409,-38.38834z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_45a5b420-7605-46dc-8636-b7ab02e4017b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"18.28309\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice",
+                        "default": {
+                            "value": "xywh=1117,965,87,109",
+                            "@type": "oa:FragmentSelector"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "motivation": "oa:commenting",
+            "@id": "22aa56a6-38cb-42a9-96ba-a7ee23216696",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "format": "text/html",
+                "chars": "<p>larger decoration</p>",
+                "@type": "dctypes:Text",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/canvas/81285178.4931.emory.edu$7",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "value": "xywh=1099,267,194,205",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1127.13586,296.90679c17.94093,-17.21376 43.24952,-30.03226 68.68076,-30.01694v0v0c25.43124,0.01531 47.58611,12.00682 68.68076,30.01694c21.09465,18.01013 29.29387,45.45408 28.4485,72.46731c-0.84537,27.01323 -10.73534,53.59573 -28.4485,72.46731c-17.71316,18.87159 -43.24952,30.03226 -68.68076,30.01694c-25.43124,-0.01531 -50.75735,-11.20662 -68.68076,-30.01694c-17.92341,-18.81033 -28.44412,-45.23968 -28.4485,-72.46731c-0.00438,-27.22764 10.50757,-55.25356 28.4485,-72.46731z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_4a852bc3-2100-48ca-b756-ed86798d7279\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "@type": "oa:Choice",
+                        "default": {
+                            "value": "xywh=1099,267,194,205",
+                            "@type": "oa:FragmentSelector"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "motivation": "oa:commenting",
+            "@id": "907264f7-9579-4fca-bba9-55951bf1da9d",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "format": "text/html",
+                "chars": "<p>Most of Hadrian - the title - of the page - at the top</p>",
+                "@type": "dctypes:Text",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/canvas/81285178.4931.emory.edu$7",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "value": "xywh=318,358,742,76",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "value": "//*[@id='6c765fc1-9b4b-4f87-9864-ecdb2416af8c']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "start": 1,
+                                "@type": "TextPositionSelector"
+                            }
+                        },
+                        "endSelector": {
+                            "value": "//*[@id='cfb30ba2-5782-4e9e-82f8-c7f1dda71359']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 9
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "motivation": "oa:commenting",
+            "@id": "ca25ae5a-1df2-43f6-8a72-f62559415a97",
+            "@type": "oa:Annotation",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "resource": {
+                "format": "text/html",
+                "chars": "<p><em>tiny words - now in red!!<br /></em></p>",
+                "@type": "dctypes:Text",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "full": "https://readux.ecdsdev.org/iiif/v2/81285178.4931.emory.edu/canvas/81285178.4931.emory.edu$7",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "value": "xywh=371,889,642,33",
+                    "@type": "oa:FragmentSelector",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "value": "//*[@id='e842f6ba-538c-4c2b-9cd9-5a0ace720d89']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "start": 5,
+                                "@type": "TextPositionSelector"
+                            }
+                        },
+                        "endSelector": {
+                            "value": "//*[@id='5c955ada-62cb-4f20-9da0-e232f9f7329c']",
+                            "@type": "XPathSelector",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 9
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
